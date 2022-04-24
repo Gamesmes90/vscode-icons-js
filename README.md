@@ -1,6 +1,6 @@
 # vscode-icons-js
 
-A for of [vscode-icons-js](https://github.com/dderevjanik/vscode-icons-js) adding updates to icon dictionary
+A fork of [vscode-icons-js](https://github.com/dderevjanik/vscode-icons-js) adding updates to icon dictionary
 
 Added definitions:
 - [assembly](data/generated/icons.json#L3969-L3970)
