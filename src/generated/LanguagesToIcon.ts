@@ -97,6 +97,7 @@ export const LanguagesToIcon: { [key: string]: string } = {
   glyphs: 'file_type_glyphs.svg',
   gp: 'file_type_gnuplot.svg',
   go: 'file_type_go.svg',
+  gd: 'file_type_godot.svg',
   gql: 'file_type_graphql.svg',
   groovy: 'file_type_groovy.svg',
   gvy: 'file_type_groovy.svg',

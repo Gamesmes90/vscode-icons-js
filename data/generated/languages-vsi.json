@@ -44,8 +44,8 @@
   "asp": {
     "defaultExtension": "asp"
   },
-  "assembly": {
-    "defaultExtension": "asm"
+  "astro": {
+    "defaultExtension": "astro"
   },
   "ats": {
     "defaultExtension": "ats"
@@ -63,7 +63,7 @@
     "defaultExtension": "azcli"
   },
   "ids": {
-    "defaultExtension": "jenkinsfile"
+    "defaultExtension": "spring-boot-properties-yaml"
   },
   "ballerina": {
     "defaultExtension": "bal"
@@ -100,6 +100,15 @@
   },
   "bosque": {
     "defaultExtension": "bsq"
+  },
+  "browserslist": {
+    "defaultExtension": "browserslist"
+  },
+  "bruno": {
+    "defaultExtension": "bru"
+  },
+  "buf": {
+    "defaultExtension": "buf.yaml"
   },
   "c": {
     "defaultExtension": "c"
@@ -200,6 +209,9 @@
   "dlang": {
     "defaultExtension": "d"
   },
+  "dockercompose": {
+    "defaultExtension": "yml"
+  },
   "dockerfile": {
     "defaultExtension": "dockerfile"
   },
@@ -215,6 +227,9 @@
   "doxygen": {
     "defaultExtension": "dox"
   },
+  "drawio": {
+    "defaultExtension": "drawio"
+  },
   "drools": {
     "defaultExtension": "drl"
   },
@@ -229,6 +244,9 @@
   },
   "edge": {
     "defaultExtension": "edge"
+  },
+  "editorconfig": {
+    "defaultExtension": "editorconfig"
   },
   "eex": {
     "defaultExtension": "eex"
@@ -247,6 +265,12 @@
   },
   "erlang": {
     "defaultExtension": "erl"
+  },
+  "esphome": {
+    "defaultExtension": "yaml"
+  },
+  "excel": {
+    "defaultExtension": "xlsx"
   },
   "falcon": {
     "defaultExtension": "falcon"
@@ -296,11 +320,20 @@
   "go": {
     "defaultExtension": "go"
   },
+  "gomod": {
+    "defaultExtension": "mod"
+  },
+  "gowork": {
+    "defaultExtension": "work"
+  },
   "goctl": {
     "defaultExtension": "api"
   },
-  "godot": {
+  "gdscript": {
     "defaultExtension": "gd"
+  },
+  "grain": {
+    "defaultExtension": "gr"
   },
   "graphql": {
     "defaultExtension": "gql"
@@ -325,6 +358,9 @@
   },
   "haxe": {
     "defaultExtension": "haxe"
+  },
+  "hcl": {
+    "defaultExtension": "hcl"
   },
   "helm": {
     "defaultExtension": "helm.tpl"
@@ -398,6 +434,9 @@
   "jsonc": {
     "defaultExtension": "jsonc"
   },
+  "jsonl": {
+    "defaultExtension": "jsonl"
+  },
   "jsonnet": {
     "defaultExtension": "jsonnet"
   },
@@ -436,6 +475,9 @@
   },
   "lex": {
     "defaultExtension": "flex"
+  },
+  "lilypond": {
+    "defaultExtension": "ly"
   },
   "lisp": {
     "defaultExtension": "lisp"
@@ -479,6 +521,9 @@
   "mel": {
     "defaultExtension": "mel"
   },
+  "mermaid": {
+    "defaultExtension": "mmd"
+  },
   "meson": {
     "defaultExtension": "meson.build"
   },
@@ -487,6 +532,9 @@
   },
   "mlang": {
     "defaultExtension": "pq"
+  },
+  "mojo": {
+    "defaultExtension": "mojo"
   },
   "mojolicious": {
     "defaultExtension": "ep"
@@ -533,6 +581,9 @@
   "openHAB": {
     "defaultExtension": "things"
   },
+  "org": {
+    "defaultExtension": "org"
+  },
   "pascal": {
     "defaultExtension": "pas"
   },
@@ -568,6 +619,9 @@
   },
   "plsql": {
     "defaultExtension": "ddl"
+  },
+  "po": {
+    "defaultExtension": "po"
   },
   "polymer": {
     "defaultExtension": "polymer"
@@ -613,6 +667,9 @@
   },
   "python": {
     "defaultExtension": "py"
+  },
+  "pythowo": {
+    "defaultExtension": "pyowo"
   },
   "qlik": {
     "defaultExtension": "qvs"
@@ -671,6 +728,9 @@
   "sas": {
     "defaultExtension": "sas"
   },
+  "sass": {
+    "defaultExtension": "sass"
+  },
   "sbt": {
     "defaultExtension": "sbt"
   },
@@ -704,14 +764,23 @@
   "slim": {
     "defaultExtension": "slim"
   },
+  "sln": {
+    "defaultExtension": "sln"
+  },
   "silverstripe": {
     "defaultExtension": "ss"
+  },
+  "sino": {
+    "defaultExtension": "sn"
   },
   "skipper": {
     "defaultExtension": "eskip"
   },
   "smarty": {
     "defaultExtension": "tpl"
+  },
+  "snippets": {
+    "defaultExtension": "code-snippets"
   },
   "snort": {
     "defaultExtension": "snort"
@@ -758,6 +827,9 @@
   "svelte": {
     "defaultExtension": "svelte"
   },
+  "svg": {
+    "defaultExtension": "svg"
+  },
   "swagger": {
     "defaultExtension": "swagger"
   },
@@ -776,8 +848,14 @@
   "t4": {
     "defaultExtension": "tt"
   },
+  "tailwindcss": {
+    "defaultExtension": "css"
+  },
   "teal": {
     "defaultExtension": "teal"
+  },
+  "templ": {
+    "defaultExtension": "templ"
   },
   "templatetoolkit": {
     "defaultExtension": "tt3"
@@ -827,6 +905,12 @@
   "typo3": {
     "defaultExtension": "typoscript"
   },
+  "uiua": {
+    "defaultExtension": "ua"
+  },
+  "unison": {
+    "defaultExtension": "u"
+  },
   "vb": {
     "defaultExtension": "vb"
   },
@@ -838,6 +922,9 @@
   },
   "velocity": {
     "defaultExtension": "vm"
+  },
+  "vento": {
+    "defaultExtension": "vto"
   },
   "verilog": {
     "defaultExtension": "v"
@@ -857,11 +944,20 @@
   "vue": {
     "defaultExtension": "vue"
   },
+  "wai": {
+    "defaultExtension": "wai"
+  },
   "wasm": {
     "defaultExtension": "wasm"
   },
   "wenyan": {
     "defaultExtension": "wy"
+  },
+  "wgsl": {
+    "defaultExtension": "wgsl"
+  },
+  "wikitext": {
+    "defaultExtension": "wt"
   },
   "wolfram": {
     "defaultExtension": "wl"
@@ -871,6 +967,9 @@
   },
   "wxml": {
     "defaultExtension": "wxml"
+  },
+  "xcompose": {
+    "defaultExtension": "xcompose"
   },
   "xmake": {
     "defaultExtension": "xmake.lua"
@@ -892,6 +991,9 @@
   },
   "yang": {
     "defaultExtension": "yang"
+  },
+  "yarnlock": {
+    "defaultExtension": "lock"
   },
   "zig": {
     "defaultExtension": "zig"

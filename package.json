@@ -1,6 +1,6 @@
 {
   "name": "vscode-icons-js",
-  "version": "11.6.1",
+  "version": "11.6.2",
   "description": "File specific icons from vscode vscode-icons extension",
   "main": "dist/Index.js",
   "typings": "dist/Index.d.ts",
@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dderevjanik/vscode-icons-js.git"
+    "url": "git+https://github.com/Gamesmes90/vscode-icons-js.git"
   },
   "author": {
-    "email": "daniel.derevjanik@gmail.com",
-    "name": "Daniel Derevjanik"
+    "email": "Gamesmes90@gmail.com",
+    "name": "Gamesmes90"
   },
   "keywords": [
     "typescript",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dderevjanik/vscode-icons-js/issues"
+    "url": "https://github.com/Gamesmes90/vscode-icons-js/issues"
   },
-  "homepage": "https://github.com/dderevjanik/vscode-icons-js#readme",
+  "homepage": "https://github.com/Gamesmes90/vscode-icons-js#readme",
   "devDependencies": {
     "@types/node": "^14.14.27",
     "@types/node-fetch": "^2.5.8",
