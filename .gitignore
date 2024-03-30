@@ -18,3 +18,5 @@ yarn-error.log*
 
 # Libs
 node_modules
+
+*.tgz
